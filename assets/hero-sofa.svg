@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img"><defs>
+<linearGradient id="back" x1="0.06" y1="0" x2="0.91" y2="1" objectBoundingBox="true"><stop stop-color="#E5DAC9"/><stop offset=".55" stop-color="#C7B9A6"/><stop offset="1" stop-color="#A99B89"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6A999"/><stop offset="1" stop-color="#8C8679"/></linearGradient>
+<linearGradient id="seat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2E8D8"/><stop offset=".52" stop-color="#DBCFBF"/><stop offset="1" stop-color="#B9AD9A"/></linearGradient>
+<linearGradient id="cushion" x1=".1" y1="0" x2=".8" y2="1"><stop stop-color="#E9DDCA"/><stop offset="1" stop-color="#B8A88F"/></linearGradient>
+<radialGradient id="bg"><stop stop-color="#FFFFFF" stop-opacity=".85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="190%"><feGaussianBlur stdDeviation="17"/></filter>
+<pattern id="thread" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 6h13M6 0v13" stroke="#F6EFE3" stroke-opacity=".14" stroke-width=".7"/></pattern>
+</defs><circle cx="463" cy="333" r="254" fill="#DDE8D5" opacity=".5"/><path d="M108 565h690" stroke="#A1B8A3" opacity=".4" stroke-width="2"/><circle cx="748" cy="171" r="19" fill="#D8BCA9"/><circle cx="116" cy="238" r="11" fill="#A9C6A0"/><path d="m771 321 8-23 8 23 23 8-23 8-8 23-8-23-23-8Z" fill="#D4E6AA"/>
+<g transform="translate(-20 -4) scale(1.01)">
+ <ellipse cx="449" cy="545" rx="349" ry="37" fill="#394A43" opacity=".14" filter="url(#shadow)"/>
+ <path d="M173 319q-5-70 56-83 215-41 423 3 62 11 54 79l-9 117H181Z" fill="url(#back)" stroke="#AB9F8C" stroke-width="5"/>
+ <path d="M211 290q46-25 218-25v167H190Z" fill="url(#cushion)" stroke="#D2C4B2" stroke-width="4"/>
+ <path d="M442 265q177-2 221 25l10 142H442Z" fill="url(#back)" stroke="#B8AB99" stroke-width="4"/>
+ <path d="M423 266v169M216 310q6 36 0 104m446-105q-7 37 0 104" stroke="#A59886" stroke-width="3" opacity=".52"/>
+ <rect x="145" y="408" width="615" height="125" rx="34" fill="url(#side)" stroke="#8A8175" stroke-width="4"/>
+ <path d="M171 408q17-30 92-31h382q68 1 92 31v68H171Z" fill="url(#seat)" stroke="#BDAF9B" stroke-width="4"/>
+ <path d="M452 379v103" stroke="#B6AB9A" stroke-width="4" opacity=".62"/>
+ <path d="M171 458h562" stroke="#F9F5ED" stroke-opacity=".32" stroke-width="4"/>
+ <path d="M149 425q-17-37-40-21-20 15-17 50v67q7 23 31 23h70v-110Q177 398 149 425Z" fill="url(#back)" stroke="#A89B87" stroke-width="4"/>
+ <path d="M743 425q17-37 40-21 20 15 17 50v67q-7 23-31 23h-70v-110q16-36 44-9Z" fill="url(#back)" stroke="#A89B87" stroke-width="4"/>
+ <path d="M136 541h58v39h-32q-15-8-26-39ZM700 541h58l-26 39h-32Z" fill="#414F4E"/>
+ <path d="M194 399q30-11 67-8m396 8q-30-11-67-8" stroke="#FFFFFF" stroke-width="8" stroke-opacity=".3" stroke-linecap="round"/>
+ <path d="M191 298q25-19 68-17m200 4q30-13 74-12" stroke="#FFFFFF" stroke-width="7" stroke-opacity=".2" stroke-linecap="round"/>
+ <path d="M172 409h569v109H172Z" fill="url(#thread)" opacity=".38"/>
+ </g><g transform="translate(-20 -4) scale(1.01)" fill="none" stroke="#E7F6CF" stroke-width="7" stroke-linecap="round"><path d="m700 206 12-33 12 33 33 12-33 12-12 33-12-33-33-12Z" fill="#D4EBAA" stroke="none"/><path d="m162 304 7-20 7 20 20 7-20 7-7 20-7-20-20-7Z" fill="#D6EDBB" stroke="none"/></g><g transform="translate(620 70) rotate(12)"><path d="M4 148 47 89 74 98 27 166" stroke="#566E68" stroke-width="18" fill="none" stroke-linecap="round"/><path d="M37 90 62 49l27 15-27 42Z" fill="#546B69" stroke="#DDE7DB" stroke-width="4"/><path d="M73 51 93 20l-5-9" stroke="#526B66" stroke-width="11" stroke-linecap="round" fill="none"/><path d="M-6 165 30 152l13 22-42 15Z" fill="#8DAE92" stroke="#415A54" stroke-width="4"/><path d="M4 171 36 166" stroke="#E8F0E5" stroke-width="3" opacity=".8"/></g><g stroke="#E4F0D1" stroke-width="3" stroke-linecap="round" opacity=".9"><path d="M210 196q-22 17-9 43m30-41q-20 18-7 41M253 196q-17 18-5 36"/><path d="M658 154q18-23 39-11"/></g></svg>
